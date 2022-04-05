@@ -1,0 +1,71 @@
+body{
+    background-color:skyblue
+}
+
+#image{
+    position: relative;
+    padding: 3px;
+    top: 25px;
+    left: 90px;
+}
+
+#name{
+    background-color: rgb(0, 0, 0);
+    font-size: larger;
+    color: white;
+    padding: 10px;
+    border-color: black;
+    border-radius: 10px;
+    width: 500px;
+    position: relative;
+    left: 500px;
+    bottom: 92px;
+}
+
+#blank{
+    background-color: aliceblue;
+}
+
+#parent{
+    background-color: aliceblue;
+    padding: 10px;
+    height:1250px;
+    width: 1600px;
+    position: relative;
+    bottom: 30px;
+}
+
+#box1{
+    width:750px;
+}
+
+#box2{
+    width:750px;
+    position: relative;
+    left: 750px;
+    bottom: 1166px;
+}
+
+.child{
+    font-size: 40px;
+    color: rgb(8, 53, 252);
+    padding-left: 5px;
+}
+
+.sub{
+    font-size: 25px;
+}
+
+table{
+    width: 750px;
+}
+
+.slider{
+    width: 500px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+span{
+    margin-left: 380px;
+}
